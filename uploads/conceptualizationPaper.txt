@@ -1,0 +1,236 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Daniel Boice at 2012-08-26 05:28:41 -0700 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@book{cognitiveTechniques,
+	Address = {New York},
+	Author = {Friedberg, R.D. and McClure, J. M. and Garcia, J.H.},
+	Date-Added = {2012-08-24 10:34:51 +0000},
+	Date-Modified = {2012-08-24 10:36:41 +0000},
+	Isbn = {9781606233139},
+	Publisher = {Guilford},
+	Title = {Cognitive therapy techniques for children and adolescents : tools for enhancing practice},
+	Year = {2009}}
+
+@book{cognitiveTherapy,
+	Address = {New York},
+	Author = {Reinecke, M.A. and Dattilio, F. M. and Freeman, A.},
+	Date-Added = {2012-08-24 10:28:34 +0000},
+	Date-Modified = {2012-08-24 10:30:58 +0000},
+	Isbn = {9781572300224},
+	Publisher = {Guilford},
+	Title = {Cognitive therapy with children and adolescents : a casebook for clinical practice},
+	Year = {1996}}
+
+@book{kazdin,
+	Address = {Long Grove, IL},
+	Author = {Kazdin, E. A.},
+	Date-Added = {2012-08-24 01:40:01 +0000},
+	Date-Modified = {2012-08-24 01:41:39 +0000},
+	Edition = {6th},
+	Isbn = {9781577665823},
+	Publisher = {Waveland},
+	Title = {Behavior modification in applied settings},
+	Year = {2001}}
+
+@article{parentchild,
+	Abstract = {Evaluated the effectiveness of Parent-Child Interaction Therapy (PCIT) for 24 mother-child dyads. Families received 14 weekly sessions of PCIT, with half receiving Child-Directed Interaction training first (CDI-First group) and half receiving Parent-Directed Interaction training first (PDI-First group). At midtreatment, the PDI training stage was more effective than the CDI stage for reducing noncompliance and disruptiveness. The groups were also compared at posttreatment to examine the impact of stage sequence. The PDI-First group was more improved on parent report of conduct problems, and mothers were more satisfied with therapy. The two groups were combined to examine overall treatment outcome. Families moved from outside normal limits to within normal limits on compliance, conduct problems, activity level, and maternal stress, and showed improvement in internalizing problems and child self-esteem. Gains were maintained at 6-week follow-up. [ABSTRACT FROM AUTHOR]},
+	Author = {Eisenstadt, T. H. and Eyberg, S. and McNeil, C. B. and Newcomb, K. and Funderburk, B.},
+	Date-Added = {2012-08-24 01:19:25 +0000},
+	Date-Modified = {2012-08-24 01:31:20 +0000},
+	Issn = {0047228X},
+	Journal = {Journal of Clinical Child Psychology},
+	Keywords = {PARENT-child interaction therapy, SELF-esteem in children},
+	Number = {1},
+	Pages = {42},
+	Title = {Parent-Child Interaction Therapy With Behavior Problem Children: Relative Effectiveness of Two Stages and Overall Treatment Outcome.},
+	Volume = {22},
+	Year = {1993},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=6395253&amp;site=ehost-live}}
+
+@article{relational2011,
+	Abstract = {The goal of this study is to analyze preferences for relational styles in encounters with mental health providers across racial and ethnic groups. Four primary themes describe what patients want from a mental health provider: listening, understanding, spending time, and managing differences. However, using contextual comparative analysis, the findings explicate how these themes are described differently across African Americans, Latinos, and non-Latino Whites, uncovering important qualitative differences in the meaning of these themes across the groups. The article suggests that closer attention to qualitative preferences for style of interaction with providers may help address disparities in mental health care for racial and ethnic minorities. {\copyright} 2010 Wiley Periodicals, Inc. J Clin Psychol 67:1-14, 2010. [ABSTRACT FROM AUTHOR]},
+	Author = {Mulvaney-Day, N. E. and Earl, T. R. and Diaz-Linhart, Y. and Alegr{\'\i}a, M.},
+	Date-Added = {2012-08-23 23:33:37 +0000},
+	Date-Modified = {2012-08-24 00:00:09 +0000},
+	Issn = {00219762},
+	Journal = {Journal of Clinical Psychology},
+	Keywords = {MENTAL health practitioners, MENTAL health personnel, MENTAL health services, AFRICAN Americans -- Mental health, INDIVIDUAL differences, ETHNIC groups -- Medical care, COMPARATIVE studies},
+	Number = {1},
+	Pages = {31 - 44},
+	Title = {Preferences for relational style with mental health clinicians: A qualitative comparison of African American, Latino and Non-Latino White patients.},
+	Volume = {67},
+	Year = {2011},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=55677157&amp;site=ehost-live}}
+
+@article{evidencebased2004,
+	Author = {Patterson, J. E. and Miller, R. B. and Carnes, S. and Wilson, S.},
+	Date-Added = {2012-08-23 23:10:12 +0000},
+	Date-Modified = {2012-08-23 23:15:20 +0000},
+	Journal = {Journal of Marital and Family Therapy},
+	Month = {Apr},
+	Number = {2},
+	Pages = {183-195},
+	Title = {EVIDENCE-BASED PRACTICE FOR MARRIAGE AND FAMILY THERAPISTS},
+	Volume = {30},
+	Year = {2004}}
+
+@book{dsm2000,
+	Address = {Washington DC},
+	Author = {{American Psychiatric Association}},
+	Date-Added = {2012-08-23 22:18:16 +0000},
+	Date-Modified = {2012-08-23 22:26:49 +0000},
+	Edition = {4th ed, Text Revision},
+	Institution = {American Psychiatric Association.;American Psychiatric Association.},
+	Isbn = {9780890420249},
+	Organization = {American Psychiatric Association},
+	Publisher = {American Psychiatric Association},
+	Title = {Diagnostic and statistical manual of mental disorders : {DSM-IV-TR}.},
+	Year = {2000}}
+
+@incollection{ethnicity1996,
+	Address = {New York},
+	Author = {McGill, D. W. and Pearce, J. K.},
+	Booktitle = {Ethnicity and family therapy},
+	Date-Added = {2012-08-23 18:47:49 +0000},
+	Date-Modified = {2012-08-23 19:00:46 +0000},
+	Edition = {2nd},
+	Editor = {McGoldrick, M. and Giordano, J. and Pearce, J. K.},
+	Isbn = {9780898629590},
+	Pages = {451-466},
+	Publisher = {Guilford},
+	Title = {American families with English ancestors from the Colonial Era: Anglo Americans},
+	Year = {1996}}
+
+@article{bean2001,
+	Author = {Bean, R. A. and Perry, B. J. and Bedell, T. M.},
+	Date-Added = {2012-08-23 18:41:18 +0000},
+	Date-Modified = {2012-08-23 18:43:18 +0000},
+	Number = {1},
+	Pages = {43-54},
+	Title = {Developing culturally competent marriage and family therapists: Guidelines for working with Hispanic families},
+	Volume = {27},
+	Year = {2001}}
+
+@misc{mcvideo,
+	Address = {New York, NY},
+	Author = {{McGoldrick, M. (Moderator/Therapist)} and {\bibcorporate{Newbridge Communications (Producer)}}},
+	Date-Added = {2012-08-23 16:38:09 +0000},
+	Date-Modified = {2012-08-26 12:28:36 +0000},
+	Isbn = {9781567844108},
+	Publisher = {Psychotherapy.net},
+	Title = {The Legacy of unresolved loss: A family systems approach},
+	Type = {DVD},
+	Year = {2006}}
+
+@misc{video,
+	Date-Added = {2012-08-22 21:39:09 +0000},
+	Date-Modified = {2012-08-23 16:34:23 +0000},
+	Howpublished = {DVD},
+	Producer = {Psychotherapy.net},
+	Title = {The Legacy of Unresolved Loss: A Family Systems Approach},
+	Year = {2006}}
+
+@book{Corsini2011,
+	Address = {Belmont CA},
+	Author = {Raymond J Corsini},
+	Date-Added = {2012-08-22 21:18:29 +0000},
+	Date-Modified = {2012-08-22 23:17:21 +0000},
+	Edition = {9th ed.},
+	Isbn = {9780495903369},
+	Publisher = {Brooks/Cole},
+	Title = {Current psychotherapies},
+	Year = {2011}}
+
+@book{Corcoran:2003kk,
+	Address = {Oxford ;;New York},
+	Author = {Jacqueline Corcoran},
+	Date-Added = {2012-08-22 20:56:56 +0000},
+	Date-Modified = {2012-08-22 20:56:56 +0000},
+	Isbn = {9780195149524},
+	Publisher = {Oxford University Press},
+	Title = {Clinical applications of evidence-based family interventions},
+	Year = {2003}}
+
+@article{alliance,
+	Abstract = {Describes procedures for developing a therapeutic alliance with a parent within the context of family therapy for adolescents. Phases of the alliance building session; Family Therapy for Depressed Adolescents; Role of therapist-parent alliance; Case presentation.},
+	Author = {Diamond, G. M. and Diamond, G. S.},
+	Date-Added = {2012-08-22 20:52:53 +0000},
+	Date-Modified = {2012-08-23 23:59:48 +0000},
+	Issn = {00219762},
+	Journal = {Journal of Clinical Psychology},
+	Keywords = {THERAPEUTIC alliance, FAMILY psychotherapy, ADOLESCENT psychotherapy, DEPRESSION in adolescence},
+	Number = {8},
+	Pages = {1037 - 1050},
+	Title = {The Therapist-Parent Alliance in Family-Based Therapy for Adolescents.},
+	Volume = {56},
+	Year = {2000},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RElpOUy5vYmplY3RzViRjbGFzc1dOUy5rZXlzog8QgASABoAHohMUgAKAA1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgMGRpXTlMuZGF0YU8RAhAAAAAAAhAAAgAABExpb24AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMt39xZIKwAAAT/yPB10aGVyYXBpc3QgcGFyZW50IGFsbGlhbmNlLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP/cqzFqU11BERiBDQVJPAAEAAwAACSAAAAAAAAAAAAAAAAAAAAAaY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMAEAAIAADLeFmGAAAAEQAIAADMWvdHAAAAAQAUAT/yPAEZj+4BDU5LAAUUUQAAuZYAAgBoTGlvbjpVc2VyczoAZGFuYm9pY2U6AERyb3Bib3g6AGxhdGV4TW9uaXRvcmVkOgBjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlczoAdGhlcmFwaXN0IHBhcmVudCBhbGxpYW5jZS5wZGYADgA8AB0AdABoAGUAcgBhAHAAaQBzAHQAIABwAGEAcgBlAG4AdAAgAGEAbABsAGkAYQBuAGMAZQAuAHAAZABmAA8ACgAEAEwAaQBvAG4AEgBeVXNlcnMvZGFuYm9pY2UvRHJvcGJveC9sYXRleE1vbml0b3JlZC9jb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlcy90aGVyYXBpc3QgcGFyZW50IGFsbGlhbmNlLnBkZgATAAEvAAAVAAIAD///AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxA4Y29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMvdGhlcmFwaXN0IHBhcmVudCBhbGxpYW5jZS5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGQAbABvAHEAcwB1AHgAegB8AIYAkwCYAKACtAK2ArsCxALPAtMC4QLoAvEDLAMxAzQDQQNGAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA1g=},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=3389517&amp;site=ehost-live}}
+
+@article{attachment,
+	Abstract = {Examines the usefulness of research in analyzing the attachment relations for family based therapy with adolescents. Clinical utility of adolescent attachment research; Interface between clinical and developmental processes; Transgenerational perspective of attachment theory and research.},
+	Author = {Liddle, H. A. and Schwartz, S. J.},
+	Date-Added = {2012-08-22 20:48:07 +0000},
+	Date-Modified = {2012-08-24 00:03:50 +0000},
+	Issn = {00147370},
+	Journal = {Family Process},
+	Keywords = {ATTACHMENT behavior, FAMILY psychotherapy},
+	Number = {3},
+	Pages = {455},
+	Title = {Attachment and Family Therapy: Clinical Utility of Adolescent-Family Attachment Research.},
+	Volume = {41},
+	Year = {2002},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RElpOUy5vYmplY3RzViRjbGFzc1dOUy5rZXlzog8QgASABoAHohMUgAKAA1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgMGRpXTlMuZGF0YU8RAh4AAAAAAh4AAgAABExpb24AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMt39xZIKwAAAT/yPB9hdHRhY2htZW50IGFuZCBmYW1pIzEzRkYzNkUucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP/NuzFqTtVBERiBDQVJPAAEAAwAACSAAAAAAAAAAAAAAAAAAAAAaY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMAEAAIAADLeFmGAAAAEQAIAADMWvYlAAAAAQAUAT/yPAEZj+4BDU5LAAUUUQAAuZYAAgBqTGlvbjpVc2VyczoAZGFuYm9pY2U6AERyb3Bib3g6AGxhdGV4TW9uaXRvcmVkOgBjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlczoAYXR0YWNobWVudCBhbmQgZmFtaSMxM0ZGMzZFLnBkZgAOAEQAIQBhAHQAdABhAGMAaABtAGUAbgB0ACAAYQBuAGQAIABmAGEAbQBpAGwAeQAgAHQAaABlAHIAYQBwAHkALgBwAGQAZgAPAAoABABMAGkAbwBuABIAYlVzZXJzL2RhbmJvaWNlL0Ryb3Bib3gvbGF0ZXhNb25pdG9yZWQvY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMvYXR0YWNobWVudCBhbmQgZmFtaWx5IHRoZXJhcHkucGRmABMAAS8AABUAAgAP//8AAIAF0hwdHh9YJGNsYXNzZXNaJGNsYXNzbmFtZaMfICFdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfEDxjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlcy9hdHRhY2htZW50IGFuZCBmYW1pbHkgdGhlcmFweS5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGQAbABvAHEAcwB1AHgAegB8AIYAkwCYAKACwgLEAskC0gLdAuEC7wL2Av8DPgNDA0YDUwNYAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA2o=},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=7573873&amp;site=ehost-live}}
+
+@article{1580633420050301,
+	Abstract = {This study examined fidelity in multidimensional family prevention (MDFP), a family-based prevention counseling model for adolescents at high risk for substance abuse and related behavior problems, in comparison to two empirically based treatments for adolescent drug abuse: multidimensional family therapy (MDFT) and cognitive-behavioral therapy (CBT). Randomly selected videotapes of 109 MDFP sessions, 57 MDFT sessions, and 31 CBT sessions were observationally rated along two key dimensions of implementation: intervention parameters and intervention techniques. Overall, MDFP was similar to MDFT and different from CBT in a manner congruent with its theoretical principles of interactional, systemic intervention. However, deficiencies in parental monitoring and developmental knowledge interventions point the way for continued model development. The utility of fidelity process research for conveying intervention technology along the prevention-treatment continuum of mental health services },
+	Author = {Hogue, AaronLiddle, Howard A.Singer, AlisaLeckrone, Jodi},
+	Date-Added = {2012-08-22 20:45:09 +0000},
+	Date-Modified = {2012-08-22 20:45:09 +0000},
+	Issn = {00904392},
+	Journal = {Journal of Community Psychology},
+	Keywords = {OPERANT behavior, FAMILY counseling, HUMAN behavior, VICTIMLESS crimes, BEHAVIOR therapy, EMPLOYEE assistance programs},
+	Number = {2},
+	Pages = {191 - 211},
+	Title = {Intervention fidelity in family-based prevention counseling for adolescent problem behaviors.},
+	Url = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=15806334&amp;site=ehost-live},
+	Volume = {33},
+	Year = {2005},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RElpOUy5vYmplY3RzViRjbGFzc1dOUy5rZXlzog8QgASABoAHohMUgAKAA1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgMGRpXTlMuZGF0YU8RAtwAAAAAAtwAAgAABExpb24AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMt39xZIKwAAAT/yPB9JTlRFUlZFTlRJT04gRklERUxJIzEzRkYyODYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP/KGzFqTBlBERiBDQVJPAAEAAwAACSAAAAAAAAAAAAAAAAAAAAAaY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMAEAAIAADLeFmGAAAAEQAIAADMWvV2AAAAAQAUAT/yPAEZj+4BDU5LAAUUUQAAuZYAAgBqTGlvbjpVc2VyczoAZGFuYm9pY2U6AERyb3Bib3g6AGxhdGV4TW9uaXRvcmVkOgBjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlczoASU5URVJWRU5USU9OIEZJREVMSSMxM0ZGMjg2LnBkZgAOAMIAYABJAE4AVABFAFIAVgBFAE4AVABJAE8ATgAgAEYASQBEAEUATABJAFQAWQAgAEkATgAgAEYAQQBNAEkATABZAC0AQgBBAFMARQBEACAAUABSAEUAVgBFAE4AVABJAE8ATgAgAEMATwBVAE4AUwBFAEwASQBOAEcAIABGAE8AUgAgAEEARABPAEwARQBTAEMARQBOAFQAIABQAFIATwBCAEwARQBNACAAQgBFAEgAQQBWAEkATwBSAFMALgBwAGQAZgAPAAoABABMAGkAbwBuABIAoVVzZXJzL2RhbmJvaWNlL0Ryb3Bib3gvbGF0ZXhNb25pdG9yZWQvY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMvSU5URVJWRU5USU9OIEZJREVMSVRZIElOIEZBTUlMWS1CQVNFRCBQUkVWRU5USU9OIENPVU5TRUxJTkcgRk9SIEFET0xFU0NFTlQgUFJPQkxFTSBCRUhBVklPUlMucGRmAAATAAEvAAAVAAIAD///AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxB7Y29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMvSU5URVJWRU5USU9OIEZJREVMSVRZIElOIEZBTUlMWS1CQVNFRCBQUkVWRU5USU9OIENPVU5TRUxJTkcgRk9SIEFET0xFU0NFTlQgUFJPQkxFTSBCRUhBVklPUlMucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBkAGwAbwBxAHMAdQB4AHoAfACGAJMAmACgA4ADggOHA5ADmwOfA60DtAO9BDsEQARDBFAEVQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAARn},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=15806334&amp;site=ehost-live}}
+
+@article{northrup2007,
+	Abstract = {This paper focuses on culturally competent family therapy interventions with regard to identity formation in Latino/Anglo American (L/AA) youth. , a growing segment of the United States population. Given the overall scarcity of literature specific to this unique group, models of identity formation for a broader category (i.e., multi-racial youth) are presented and critiqued in terms of their application to L/AA adolescent. Special identity-related factors for L/AA youth populations are presented including the race of the youth's Latino parent, the L/AA youth's appearance, acceptance from family members and peers, and cultural conflict within the home. Guided by Sue and Sue (2003), specific suggestions for culturally competent family therapy are provided, and detailed using a case vignette. [ABSTRACT FROM AUTHOR]},
+	Author = {Northrup, J. C. and Bean, R. A.},
+	Date-Added = {2012-08-22 20:40:12 +0000},
+	Date-Modified = {2012-08-23 19:01:05 +0000},
+	Issn = {01926187},
+	Journal = {American Journal of Family Therapy},
+	Keywords = {LATIN Americans -- Social conditions, CROSS-cultural communication, IDENTITY (Philosophical concept), CULTURE conflict, YOUTH -- United States, FAMILY psychotherapy},
+	Number = {3},
+	Pages = {251 - 263},
+	Title = {Culturally Competent Family Therapy with Latino/Anglo-American Adolescents: Facilitating Identity Formation.},
+	Volume = {35},
+	Year = {2007},
+	Bdsk-File-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RElpOUy5vYmplY3RzViRjbGFzc1dOUy5rZXlzog8QgASABoAHohMUgAKAA1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgMGRpXTlMuZGF0YU8RAwgAAAAAAwgAAgAABExpb24AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMt39xZIKwAAAT/yPB9DdWx0dXJhbGx5IENvbXBldGVuIzEzRkYyNDcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP/JHzFqSKVBERiBDQVJPAAEAAwAACSAAAAAAAAAAAAAAAAAAAAAaY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMAEAAIAADLeFmGAAAAEQAIAADMWvSZAAAAAQAUAT/yPAEZj+4BDU5LAAUUUQAAuZYAAgBqTGlvbjpVc2VyczoAZGFuYm9pY2U6AERyb3Bib3g6AGxhdGV4TW9uaXRvcmVkOgBjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlczoAQ3VsdHVyYWxseSBDb21wZXRlbiMxM0ZGMjQ3LnBkZgAOAOAAbwBDAHUAbAB0AHUAcgBhAGwAbAB5ACAAQwBvAG0AcABlAHQAZQBuAHQAIABGAGEAbQBpAGwAeQAgAFQAaABlAHIAYQBwAHkAIAB3AGkAdABoACAATABhAHQAaQBuAG8ALwBBAG4AZwBsAG8ALQBBAG0AZQByAGkAYwBhAG4AIABBAGQAbwBsAGUAcwBjAGUAbgB0AHMALQAgAEYAYQBjAGkAbABpAHQAYQB0AGkAbgBnACAASQBkAGUAbgB0AGkAdAB5ACAARgBvAHIAbQBhAHQAaQBvAG4ALgBwAGQAZgAPAAoABABMAGkAbwBuABIAsFVzZXJzL2RhbmJvaWNlL0Ryb3Bib3gvbGF0ZXhNb25pdG9yZWQvY29uY2VwdHVhbGl6YXRpb24gYXJ0aWNsZXMvQ3VsdHVyYWxseSBDb21wZXRlbnQgRmFtaWx5IFRoZXJhcHkgd2l0aCBMYXRpbm86QW5nbG8tQW1lcmljYW4gQWRvbGVzY2VudHMtIEZhY2lsaXRhdGluZyBJZGVudGl0eSBGb3JtYXRpb24ucGRmABMAAS8AABUAAgAP//8AAIAF0hwdHh9YJGNsYXNzZXNaJGNsYXNzbmFtZaMfICFdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfEIpjb25jZXB0dWFsaXphdGlvbiBhcnRpY2xlcy9DdWx0dXJhbGx5IENvbXBldGVudCBGYW1pbHkgVGhlcmFweSB3aXRoIExhdGlubzpBbmdsby1BbWVyaWNhbiBBZG9sZXNjZW50cy0gRmFjaWxpdGF0aW5nIElkZW50aXR5IEZvcm1hdGlvbi5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGQAbABvAHEAcwB1AHgAegB8AIYAkwCYAKADrAOuA7MDvAPHA8sD2QPgA+kEdgR7BH4EiwSQAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAABKI=},
+	Bdsk-Url-1 = {http://libproxy.edmc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pbh&amp;AN=24904718&amp;site=ehost-live}}
+
+@book{goldenberg,
+	Address = {Belmont, CA},
+	Author = {Goldenberg, H. and Goldenberg, I.},
+	Date-Added = {2012-08-22 20:25:08 +0000},
+	Date-Modified = {2012-08-23 19:43:54 +0000},
+	Edition = {8th},
+	Isbn = {9781111828806},
+	Publisher = {Brooks Cole},
+	Title = {Family therapy: An overview},
+	Year = {2008}}
