@@ -96,18 +96,18 @@
     </entry>
     
     <entry>
-      <title>Links</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>Links</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
