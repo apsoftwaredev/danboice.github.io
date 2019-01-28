@@ -46,11 +46,11 @@ It could be that every stream of consciousness is the really the same Agent movi
       <category term="Philosophy" scheme="http://adaptivephilosophy.io/categories/Philosophy/"/>
     
     
+      <category term="philosphy" scheme="http://adaptivephilosophy.io/tags/philosphy/"/>
+    
       <category term="identity" scheme="http://adaptivephilosophy.io/tags/identity/"/>
     
       <category term="time" scheme="http://adaptivephilosophy.io/tags/time/"/>
-    
-      <category term="philosphy" scheme="http://adaptivephilosophy.io/tags/philosphy/"/>
     
       <category term="spacetime" scheme="http://adaptivephilosophy.io/tags/spacetime/"/>
     
@@ -87,13 +87,13 @@ This is a link to an article in the &lt;a href=&quot;https://plato.stanford.edu/
       <category term="Links" scheme="http://adaptivephilosophy.io/categories/Links/"/>
     
     
-      <category term="links" scheme="http://adaptivephilosophy.io/tags/links/"/>
-    
-      <category term="philosophy-links" scheme="http://adaptivephilosophy.io/tags/philosophy-links/"/>
-    
       <category term="identity" scheme="http://adaptivephilosophy.io/tags/identity/"/>
     
       <category term="time" scheme="http://adaptivephilosophy.io/tags/time/"/>
+    
+      <category term="links" scheme="http://adaptivephilosophy.io/tags/links/"/>
+    
+      <category term="philosophy-links" scheme="http://adaptivephilosophy.io/tags/philosophy-links/"/>
     
       <category term="time-identity" scheme="http://adaptivephilosophy.io/tags/time-identity/"/>
     
