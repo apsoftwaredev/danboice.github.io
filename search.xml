@@ -19,11 +19,11 @@
       
         <tags>
             
-            <tag> philosphy </tag>
-            
             <tag> identity </tag>
             
             <tag> time </tag>
+            
+            <tag> philosphy </tag>
             
             <tag> spacetime </tag>
             
@@ -54,13 +54,13 @@
       
         <tags>
             
-            <tag> identity </tag>
-            
-            <tag> time </tag>
-            
             <tag> links </tag>
             
             <tag> philosophy-links </tag>
+            
+            <tag> identity </tag>
+            
+            <tag> time </tag>
             
             <tag> time-identity </tag>
             
@@ -153,20 +153,20 @@
   
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<p> <img align="right" height="325" width="305" src="../../uploads/dandubois.jpg"> After completing service in the military, I started out in the IT field.  I was an intern for the State of Arizona Government Information Technology Agency (G.I.T.A.) for two summers during the first two years in the Management Information Systems program at the University of Arizona.  I collaborated on coding software projects for state agencies and assisted with internal networking and computer hardware maintenance.</p><p>For a broader education, I switched and completed a B.A. degree in Philosophy from the University of Arizona with a interests in logic, history and philosophy of science, consciousness, and western analytic philosophy.  The degree included an array of other areas in the liberal arts and sciences and a minor in communications.</p><p>I then completed a M.S. degree in Psychology from the University of Phoenix while working as a Case Manager at an intensive community mental health clinic.  After completing the degree, I moved to northern Arizona and worked for the AZ Department of Economic Security-Division of Developmental Disabilities for a short time before going back to graduate school for a doctorate in Clinical Psychology at the Arizona School of Professional Psychology at Argosy University. </p><p>I completed a M.A. degree in Clinical Psychology after three years of full-time coursework and year practicum providing neuropsychological testing.  I continued coursework for two more years at Argosy and competed a half-year practicum providing psychotherapy with veterans suffering from Trauma at the VA while also employed working with seniors in home care. Unfortunately, my financial aid ran out right at the end of the program and I wasn’t able to finish.  I then worked as a behavioral health technician and now work as a masters level family therapist at a community mental health clinic for people with general mental health concerns.  I have worked in the mental health and social services field in various other capacities with many different service populations while pursuing my education.  I have continued to work on software development skills as a hobby.</p><p>Throughout my career I have enjoyed working with amazing children, adolescents, adults, and seniors from diverse backgrounds.  I have developed a strong sense of commitment to improving community support systems and a greater understanding of the difficulties that can emerge at different stages of the lifespan.  I continue to hone and utilize skills by researching, teaching, and assisting others.</p><center><a href="https://cash.me/$adaptivephilosophy" target="_blank" rel="noopener">Much Love! Thank you for your support and encouragement! $</a></center>]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
