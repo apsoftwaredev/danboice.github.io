@@ -6,11 +6,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adaptivephilosophy.io/"/>
-  <updated>2019-01-27T18:55:51.824Z</updated>
+  <updated>2019-11-10T03:18:33.266Z</updated>
   <id>http://adaptivephilosophy.io/</id>
   
   <author>
-    <name>Daniel DuBois</name>
+    <name>Daniel</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://adaptivephilosophy.io/2019/01/20/identity-and-consciousness/"/>
     <id>http://adaptivephilosophy.io/2019/01/20/identity-and-consciousness/</id>
     <published>2019-01-20T07:00:00.000Z</published>
-    <updated>2019-01-27T18:55:51.824Z</updated>
+    <updated>2019-11-10T03:18:33.266Z</updated>
     
     <summary type="html">
     
@@ -104,7 +104,7 @@ This is a link to an article in the &lt;a href=&quot;https://plato.stanford.edu/
     <link href="http://adaptivephilosophy.io/2018/12/05/nature-unfolding/"/>
     <id>http://adaptivephilosophy.io/2018/12/05/nature-unfolding/</id>
     <published>2018-12-05T07:00:00.000Z</published>
-    <updated>2018-12-09T04:56:48.041Z</updated>
+    <updated>2019-11-10T02:57:52.958Z</updated>
     
     <summary type="html">
     
@@ -148,12 +148,12 @@ I
     <link href="http://adaptivephilosophy.io/2016/07/13/moments-with-the-stars/"/>
     <id>http://adaptivephilosophy.io/2016/07/13/moments-with-the-stars/</id>
     <published>2016-07-13T07:00:00.000Z</published>
-    <updated>2019-01-27T17:17:56.772Z</updated>
+    <updated>2019-11-10T03:22:41.390Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;
-I&#39;m sitting by myself on a deck at a cabin in Northern Arizona. A few moments ago I was reading about spirals on my phone after looking at some pictures possibly created by the debris of smashed atomic partials. It is about 20 to 25 minutes past midnight Wednesday, July 13th, 2016. I am far away from any nearby city with lights and the moon isn&#39;t out yet, so I can see stars very bright and clear twinkling slowly in the blackness of outer space above me. There are bats fluttering around in the night chasing bugs. The wind is blowing gently in the pine trees and on my skin. It is chilly and I shiver a little when a moist breeze blows lightly by my skin, giving me a small flush of goosebumps then fading away. Little insects are tapping the screen behind me and there is a steady rhythm of crickets chirping all around me out in the forest.
+I&#39;m sitting by myself on a deck in the woods in Northern Arizona. A few moments ago I was reading about spirals on my phone after looking at some pictures possibly created by the debris of smashed atomic partials. It is about 20 to 25 minutes past midnight Wednesday, July 13th, 2016. I am far away from any nearby city with lights and the moon isn&#39;t out yet, so I can see stars very bright and clear twinkling slowly in the blackness of outer space above me. There are bats fluttering around in the night chasing bugs. The wind is blowing gently in the pine trees and on my skin. It is chilly and I shiver a little when a moist breeze blows lightly by my skin, giving me a small flush of goosebumps then fading away. Little insects are tapping the screen behind me and there is a steady rhythm of crickets chirping all around me out in the forest.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -180,7 +180,7 @@ There is a soft immediate slowly building response in my body awareness field th
     <link href="http://adaptivephilosophy.io/2016/06/15/welcome-post/"/>
     <id>http://adaptivephilosophy.io/2016/06/15/welcome-post/</id>
     <published>2016-06-15T07:00:00.000Z</published>
-    <updated>2018-12-09T04:30:22.085Z</updated>
+    <updated>2019-11-10T03:25:10.174Z</updated>
     
     <summary type="html">
     
@@ -188,7 +188,7 @@ There is a soft immediate slowly building response in my body awareness field th
 &lt;h2 id=&quot;sec-1&quot;&gt;Thanks For Visiting My New Website!&lt;/h2&gt;
 &lt;div class=&quot;outline-text-2&quot; id=&quot;text-1&quot;&gt;
 &lt;p&gt;
-I&#39;ve been playing around with the blog idea for while, setting it up, and testing different generators and editors. I finally settled on a &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; blog with the &lt;a href=&quot;https://github.com/iissnan/hexo-theme-next&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Next theme&lt;/a&gt; and &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Emacs&lt;/a&gt; for my editor. The &lt;a href=&quot;http://www.nuance.com/for-individuals/by-product/dragon-for-mac/software/index.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dragon Dictate&lt;/a&gt; software seems to have difficulty with selecting and editing the text in Emacs, so I also use the &lt;a href=&quot;https://www.sublimetext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Sublime text editor&lt;/a&gt; for dictating text. I write the post in &lt;a href=&quot;http://orgmode.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Org mode&lt;/a&gt;, which the generator renders as HTML when I export it into hexo. So far I am happy with it. I had a little difficulty getting citations to export into HTML correctly, which led me on a small excursion, but I think I can just edit the HTML to have the correct in-text citations for now.
+I&#39;ve been playing around with the blog idea for while, setting it up, and testing different generators and editors. I finally settled on a &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; blog with the &lt;a href=&quot;https://github.com/iissnan/hexo-theme-next&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Next theme&lt;/a&gt; and &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Emacs&lt;/a&gt; for my editor.I write the post in &lt;a href=&quot;http://orgmode.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Org mode&lt;/a&gt;, which the generator renders as HTML when I export it into hexo. So far I am happy with it. I had a little difficulty getting citations to export into HTML correctly, which led me on a small excursion, but I think I can just edit the HTML to have the correct in-text citations for now.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -202,8 +202,6 @@ The style for the comments is Internet casual conversational; however, please be
 &lt;p&gt;
 Thanks for checking it out. I hope you find something to enjoy. I&#39;ll probably keep tweaking the website for a while, but I hope to have a new post every month or so.  You can check out the &lt;a href=&quot;http://adaptivephilosophy.io/about/&quot;&gt;About&lt;/a&gt; section for short bio of my adult career and education.
 &lt;/p&gt;
-
-&lt;center&gt;&lt;a href=&quot;https://cash.me/$adaptivephilosophy&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Much Love! Thank you for your support and encouragement! $&lt;/a&gt;&lt;/center&gt;
     
     </summary>
     
